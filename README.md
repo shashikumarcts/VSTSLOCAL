@@ -1,0 +1,2 @@
+# VSTSLOCAL
+For Jenkins
